@@ -4,13 +4,13 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 8, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Bridget Kabacinski)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This project involves putting in additional code to complete the Monthly Expense Calculator so it can be used efficiently.)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
