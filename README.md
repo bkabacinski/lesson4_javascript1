@@ -16,6 +16,6 @@ LIS 2360:  Web Application Development
 https://bkabacinski.github.io/lesson4_javascript1/index.html
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Variables are used to store data in memory and in every program variables will be declared.
+2. Global variables are declared outside a block of code whereas local variables are declared inside a block of code.
+3. Strings can be enclosed by single or double quotes, but it is important to be consistent throughout your code.
