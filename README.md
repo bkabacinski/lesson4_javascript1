@@ -13,8 +13,7 @@ LIS 2360:  Web Application Development
 (This project involves putting in additional code to complete the Monthly Expense Calculator so it can be used efficiently.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://bkabacinski.github.io/lesson4_javascript1/index.html
 
 ### Lessons Learned in the Assignment:
 1. (Briefly describe a lesson/concept learned in this lesson.)
