@@ -4,13 +4,13 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(February 8, 2017)
+February 8, 2017
 
 ### Student Name:  
-(Bridget Kabacinski)
+Bridget Kabacinski
 
 ### Project Description:
-(This project involves putting in additional code to complete the Monthly Expense Calculator so it can be used efficiently.)
+This project involves putting in additional code to complete the Monthly Expense Calculator so it can be used efficiently.
 
 ### View Project:
 https://bkabacinski.github.io/lesson4_javascript1/index.html
